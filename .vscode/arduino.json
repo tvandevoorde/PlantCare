@@ -1,0 +1,6 @@
+{
+    "sketch": "PlantCare.ino",
+    "board": "arduino:avr:diecimila",
+    "port": "COM7",
+    "configuration": "cpu=atmega328"
+}
